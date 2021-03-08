@@ -1,0 +1,6 @@
+module Pods_Ploomes {
+  umbrella header "Pods-Ploomes-umbrella.h"
+
+  export *
+  module * { export * }
+}

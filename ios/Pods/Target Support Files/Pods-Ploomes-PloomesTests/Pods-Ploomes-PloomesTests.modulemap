@@ -1,0 +1,6 @@
+module Pods_Ploomes_PloomesTests {
+  umbrella header "Pods-Ploomes-PloomesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
